@@ -40,3 +40,4 @@ K-Nearest Neighbors (KNN):
 
 Built and trained with 9 neighbors.
 Predictions were made using the trained model.
+
